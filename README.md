@@ -8,7 +8,7 @@
 </h1>
 <br>
 <p align="center">
-🚀 Front-end developer passionate about crafting seamless web experiences. Expertise in JavaScript, React, HTML, and CSS. Committed to creating visually stunning and responsive interfaces while staying on the pulse of industry trends. 🎨✨</p>
+I'm Saidul, a junior Front-end developer passionate about crafting seamless web experiences. Expertise in JavaScript, React, HTML,TailwindCSS and CSS. Committed to creating visually stunning and responsive interfaces while staying on the pulse of industry trends. 🎨✨</p>
 
 ## 💼 Skills
 
