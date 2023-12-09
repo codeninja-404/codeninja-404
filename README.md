@@ -34,7 +34,10 @@ I'm Saidul, a junior Front-end developer passionate about crafting seamless web 
 </a>
 
 <br>
-<a  href="https://bookshelf-client-d412a.web.app"> <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;"> LIVE SITE </button></a>
+
+<a href="https://bookshelf-client-d412a.web.app">
+    <img src="https://img.shields.io/badge/Livesite-blue?style=for-the-badge&logo=live&logoColor=white" alt="Live Badge"/>
+  </a>
 
 <br>
 <br>
@@ -44,10 +47,10 @@ I'm Saidul, a junior Front-end developer passionate about crafting seamless web 
   
 </a>
 <br>
-<!-- <a  href="https://gear-iq-client.web.app"> <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;"> LIVE SITE </button></a> -->
 
-[![Badge Likes]][https://gear-iq-client.web.app]
-
+ <a href="https://gear-iq-client.web.app">
+    <img src="https://img.shields.io/badge/Livesite-blue?style=for-the-badge&logo=live&logoColor=white" alt="Live Badge"/>
+  </a>
 
 <br>
 <br>
@@ -57,6 +60,8 @@ I'm Saidul, a junior Front-end developer passionate about crafting seamless web 
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja-404&repo=event-co&title_color=ffffff&-text_color=c9cacc&icon_color=4AB197&theme=blue-green" />
 
   <br>
-  <a  href="https://event-co.web.app"> <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;"> LIVE SITE </button></a>
-</a>
+  
+<a href="https://event-co.web.app">
+    <img src="https://img.shields.io/badge/Livesite-blue?style=for-the-badge&logo=live&logoColor=white" alt="Live Badge"/>
+  </a>
 <div>
