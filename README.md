@@ -2,6 +2,14 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/saidul-arefin-codeninja404)
 
+ <h1 align="center">
+  Hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+<br>
+<p align="center">
+🚀 Front-end developer passionate about crafting seamless web experiences. Expertise in JavaScript, React, HTML, and CSS. Committed to creating visually stunning and responsive interfaces while staying on the pulse of industry trends. 🎨✨</p>
+
 ## 💼 Skills
 
 <p align="center">
