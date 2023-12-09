@@ -1,13 +1,14 @@
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="500"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/saidul-arefin-codeninja404">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-  <h1>
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-</div>
+![Saidul's GitHub Banner](./assets/github-header-image.png)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/saidul-arefin-codeninja404)
+
+
+## 💼 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,firebase,html,css,)](https://skillicons.dev)
+
+
+## &#x1f4c8; GitHub Stats
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=&theme=github-dark)](https://git.io/streak-stats)
