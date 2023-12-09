@@ -31,19 +31,23 @@ I'm Saidul, a junior Front-end developer passionate about crafting seamless web 
 <div align="center">
 <a href="https://github.com/codeninja-404/bookshelf-client">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja-404&repo=bookshelf-client&title_color=ffffff&-text_color=c9cacc&icon_color=4AB197&theme=blue-green" />
-</a>
+</a><a style="" href="https://bookshelf-client-d412a.web.app"> <button style="border-radius: 5px; background-color: lightblue; font-size: 9px ; border:0 ;padding:2px 10px; color:black ;cursor: pointer"> LIVE SITE </button></a>
 
 <br>
 <br>
 
 <a href="https://github.com/codeninja-404/gear-iq-client">
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja-404&repo=gear-iq-client&title_color=ffffff&-text_color=c9cacc&icon_color=4AB197&theme=blue-green" />
+  
 </a>
+<a style="" href="https://gear-iq-client.web.app"> <button style="border-radius: 5px; background-color: lightblue; font-size: 9px ; border:0 ;padding:2px 10px; color:black ;cursor: pointer"> LIVE SITE </button></a>
 
 <br>
 <br>
 
 <a href="https://github.com/codeninja-404/event-co">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja-404&repo=event-co&_title_color=ffffff&-text_color=c9cacc&icon_color=4AB197&theme=blue-green" />
+
+  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja-404&repo=event-co&title_color=ffffff&-text_color=c9cacc&icon_color=4AB197&theme=blue-green" />
+  <a style="" href="https://event-co.web.app"> <button style="border-radius: 5px; background-color: lightblue; font-size: 9px ; border:0 ;padding:2px 10px; color:black ;cursor: pointer"> LIVE SITE </button></a>
 </a>
 <div>
