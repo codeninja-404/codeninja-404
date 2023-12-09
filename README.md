@@ -4,11 +4,19 @@
 
 ## 💼 Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,tailwind,firebase,html,css,)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,react,tailwind,firebase,html,css" />
+  </a>
+</p>
+</p>
 
 ## &#x1f4c8; GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codeninja-404&theme=github-dark)](https://git.io/streak-stats)
+<br />
+<p align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codeninja-404&theme=github-dark&card_width=477" alt="GitHub Streak" /></a>
+</p>
 
 ## 📌 Pinned Repositories
 
