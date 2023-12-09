@@ -44,7 +44,10 @@ I'm Saidul, a junior Front-end developer passionate about crafting seamless web 
   
 </a>
 <br>
-<a  href="https://gear-iq-client.web.app"> <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;"> LIVE SITE </button></a>
+<!-- <a  href="https://gear-iq-client.web.app"> <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;"> LIVE SITE </button></a> -->
+
+[![Badge Likes]][https://gear-iq-client.web.app]
+
 
 <br>
 <br>
@@ -52,7 +55,7 @@ I'm Saidul, a junior Front-end developer passionate about crafting seamless web 
 <a href="https://github.com/codeninja-404/event-co">
 
   <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja-404&repo=event-co&title_color=ffffff&-text_color=c9cacc&icon_color=4AB197&theme=blue-green" />
-  
+
   <br>
   <a  href="https://event-co.web.app"> <button style="background-color: #4CAF50; color: white; padding: 10px 20px; border: none; border-radius: 5px; cursor: pointer;"> LIVE SITE </button></a>
 </a>
