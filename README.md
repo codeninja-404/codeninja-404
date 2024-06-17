@@ -1,5 +1,3 @@
-# Hi there, I'm Saidul 👋
-
 ![Banner](./assets/github-header-image.png)
 
 ## 🚀 About Me
