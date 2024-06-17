@@ -1,71 +1,48 @@
-![Saidul's GitHub Banner](./assets/github-header-image.png)
+# Hi there, I'm Saidul 👋
 
+![Banner](./assets/github-header-image.png)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/saidul-arefin-codeninja404)
+## 🚀 About Me
 
- <h1 align="center">
-  Hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-<br>
-<p align="center">
-I'm Saidul, a junior Front-end developer passionate about crafting seamless web experiences. Expertise in JavaScript, React, HTML,TailwindCSS and CSS. Committed to creating visually stunning and responsive interfaces while staying on the pulse of industry trends. 🎨✨</p>
+I'm a passionate front-end developer with a love for crafting seamless web experiences. I specialize in front-end development and have experience in a variety of technologies.
 
-## 💼 Skills
+- 🔭 I’m currently working on **[Pixel Pulse](https://github.com/codeninja-404/pixel_pulse)**
+- 🌱 I’m currently learning **Strapi**
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,tailwind,firebase,html,css" />
-  </a>
-</p>
-</p>
+- 💬 Ask me about **JavaScript, React, TailwindCSS, HTML, CSS**
+- 📫 How to reach me: **[saidularefin8@gmail.com](mailto:saidularefin8@gmail.com)**
+- - ⚡ Fun fact: **I love hiking and photography**
 
-## &#x1f4c8; GitHub Stats
+## 🛠️ Technologies & Tools
 
-<br />
-<p align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=codeninja-404&theme=github-dark&card_width=477" alt="GitHub Streak" /></a>
-</p>
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-## 📌 Pinned Repositories
+## 📊 GitHub Stats
 
-<div align="center">
-<a href="https://github.com/codeninja-404/bookshelf-client">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja-404&repo=bookshelf-client&title_color=ffffff&-text_color=c9cacc&icon_color=4AB197&theme=blue-green" />
-</a>
+![Saidul's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&theme=radical)
 
-<br>
-<br>
+## 🏆 GitHub Trophies
 
-<a href="https://bookshelf-client-d412a.web.app">
-    <img src="https://img.shields.io/badge/Livesite-blue?style=for-the-badge&logo=live&logoColor=white" alt="Live Badge"/>
-  </a>
+[![trophy](https://github-profile-trophy.vercel.app/?username=codeninja-404&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
-<br>
-<br>
+## 📈 GitHub Streak
 
-<a href="https://github.com/codeninja-404/gear-iq-client">
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja-404&repo=gear-iq-client&title_color=ffffff&-text_color=c9cacc&icon_color=4AB197&theme=blue-green" />
-  
-</a>
-<br>
-<br>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=codeninja-404&theme=radical)
 
- <a href="https://gear-iq-client.web.app">
-    <img src="https://img.shields.io/badge/Livesite-blue?style=for-the-badge&logo=live&logoColor=white" alt="Live Badge"/>
-  </a>
+## 📂 Top Repositories
 
-<br>
-<br>
+[![Bookshelf Client](https://github-readme-stats.vercel.app/api/pin/?username=codeninja-404&repo=bookshelf-client&theme=radical)](https://github.com/codeninja-404/bookshelf-client)
 
-<a href="https://github.com/codeninja-404/event-co">
+[![Gear IQ Client](https://github-readme-stats.vercel.app/api/pin/?username=codeninja-404&repo=gear-iq-client&theme=radical)](https://github.com/codeninja-404/gear-iq-client)
 
-  <img align="center"  src="https://github-readme-stats.vercel.app/api/pin/?username=codeninja-404&repo=event-co&title_color=ffffff&-text_color=c9cacc&icon_color=4AB197&theme=blue-green" />
+[![Event Co](https://github-readme-stats.vercel.app/api/pin/?username=codeninja-404&repo=event-co&theme=radical)](https://github.com/codeninja-404/event-co)
 
-  <br>
-  <br>
-  
-<a href="https://event-co.web.app">
-    <img src="https://img.shields.io/badge/Livesite-blue?style=for-the-badge&logo=live&logoColor=white" alt="Live Badge"/>
-  </a>
-<div>
+## 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saidul-arefin-codeninja404)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saidularefin8@gmail.com)
