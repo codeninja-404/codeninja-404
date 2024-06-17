@@ -1,14 +1,14 @@
-![Banner](./assets/github-header-image.png)
+![Banner](./assets/github-header-image2.png)
 
 ## 🚀 About Me
 
 I'm a passionate front-end developer with a love for crafting seamless web experiences. I specialize in front-end development and have experience in a variety of technologies.
- 
- - 🔭 I’m currently working on **[Pixel Pulse](https://github.com/codeninja-404/pixel_pulse)**
- - 🌱 I’m currently learning **Strapi**
- - 💬 Ask me about **JavaScript, React, TailwindCSS, HTML, CSS**
- - 📫 How to reach me: **[saidularefin8@gmail.com](mailto:saidularefin8@gmail.com)**
- - ⚡ Fun fact: **I love hiking and photography**
+
+- 🔭 I’m currently working on **[Pixel Pulse](https://github.com/codeninja-404/pixel_pulse)**
+- 🌱 I’m currently learning **Strapi**
+- 💬 Ask me about **JavaScript, React, TailwindCSS, HTML, CSS**
+- 📫 How to reach me: **[saidularefin8@gmail.com](mailto:saidularefin8@gmail.com)**
+- ⚡ Fun fact: **I love hiking and photography**
 
 ## 🛠️ Technologies & Tools
 
