@@ -3,7 +3,7 @@
 ## 🚀 About Me
 
 I'm a passionate front-end developer with a love for crafting seamless web experiences. I specialize in front-end development and have experience in a variety of technologies.
-
+ 
  - 🔭 I’m currently working on **[Pixel Pulse](https://github.com/codeninja-404/pixel_pulse)**
  - 🌱 I’m currently learning **Strapi**
  - 💬 Ask me about **JavaScript, React, TailwindCSS, HTML, CSS**
