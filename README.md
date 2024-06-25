@@ -6,7 +6,7 @@ I'm a passionate front-end developer with a love for crafting seamless web exper
 
 - 🔭 I’m currently working on **[Pixel Pulse](https://github.com/codeninja-404/pixel_pulse)**
 - 🌱 I’m currently learning **Redux**
-- 💬 Ask me about **JavaScript, React, TailwindCSS, HTML, CSS**
+- 💬 Ask me about **JavaScript, React, TailwindCSS, CSS, HTML**
 - 📫 How to reach me: **[saidularefin8@gmail.com](mailto:saidularefin8@gmail.com)**
 - ⚡ Fun fact: **I love hiking and photography**
 
