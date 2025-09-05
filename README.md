@@ -28,7 +28,32 @@
 
 ## <div align="center">💾 NINJA MODULES</div>
 <div align="center" style="background: #0D1117; padding: 20px; border: 3px solid #00FFCC; border-radius: 10px; box-shadow: 0 0 15px #00FFCC;">
-  <img src="https://skillicons.dev/icons?i=js,react,tailwind,go,postgres,firebase,html,css&theme=dark&perline=8" alt="Tech Stack" style="animation: bounceIn 1.2s ease-out;" />
+  
+  <!-- Expert -->
+  <p><strong>⚡ Expert:</strong></p>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next" alt="Expert Skills" />
+  <br/>
+  <img src="https://img.shields.io/badge/DaisyUI-00FFCC?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117" />
+  
+  <!-- Comfortable -->
+  <p><strong>🌌 Comfortable:</strong></p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redux" alt="Comfortable Skills" />
+  
+  <!-- Familiar -->
+  <p><strong>💻 Familiar:</strong></p>
+  <img src="https://img.shields.io/badge/Material--Tailwind-00FFCC?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Flowbite-00FFCC?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/AntDesign-00FFCC?style=flat-square&logo=antdesign&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Shadcn--ui-00FFCC?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" />
+  
+  <!-- Tools -->
+  <p><strong>🌀 Tools:</strong></p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel" alt="Tools" />
+  <br/>
+  <img src="https://img.shields.io/badge/Netlify-00FFCC?style=flat-square&logo=netlify&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Surge-00FFCC?style=flat-square&logo=surge&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Render-00FFCC?style=flat-square&logo=render&logoColor=white&labelColor=0D1117" />
+
   <p><em>Systems primed for terminal velocity</em></p>
 </div>
 
@@ -84,7 +109,6 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160§ion=footer&text=NINJA%20v404&fontSize=70&fontColor=00FFCC&animation=scaleIn&fontAlignY=60&stroke=00FFCC&strokeWidth=3&borderRadius=12&rotate=-3" width="100%" />
   <p><strong>「 I AM THE CODE THAT CUTS THE FUTURE 」</strong></p>
-  <p>🌐 <em>DOTProgrammers Shadow Network</em> 🌐</p>
   <img src="https://komarev.com/ghpvc/?username=codeninja-404&style=flat-square&color=0D1117&label=NINJA+PINGS&labelColor=0D1117&borderColor=00FFCC" alt="Profile Views" style="animation: fadeIn 1.5s ease-out;" />
   <br/>
   <img src="https://media.giphy.com/media/xT9IgG50Fb7rxknbji/giphy.gif" alt="Ninja Smoke" width="60" style="opacity: 0.7;"/>
