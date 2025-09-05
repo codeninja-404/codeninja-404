@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&duration=1800&pause=400&color=00FFCC&background=0D111700¢er=true&vCenter=true&width=650&lines=[SYSTEM+IGNITION]+CodeNinja-404+ONLINE;[GRID+LOCK]+DOTProgrammers+SECURED;[NINJA+PROTOCOL]+FUTURE+SYSTEMS+UNLEASHED" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&duration=1800&pause=400&color=00FFCC&background=0D111700¢er=true&vCenter=true&width=650&lines=[SYSTEM+IGNITION]+CodeNinja-404+ONLINE;[GRID+LOCK]+SYSTEM+SECURED;[NINJA+PROTOCOL]+FUTURE+SYSTEMS+UNLEASHED" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -13,13 +13,13 @@
 ## <div align="center">🌐 NINJA CORE</div>
 <div align="center" style="background: #0D1117; padding: 25px; border: 3px solid #00FFCC; border-radius: 10px; box-shadow: 0 0 15px #00FFCC; animation: pulse 1.5s infinite;">
   <p><strong>Saidul Arefin | CodeNinja-404</strong></p>
-  <p>Embedded in the <em>DOTProgrammers Network</em>, I strike as a front-end assassin and grid enforcer. My arsenal: lethal code precision. My mission: dominate the digital frontier.</p>
+  <p>I strike as a front-end assassin and grid enforcer. My arsenal: lethal code precision. My mission: dominate the digital frontier.</p>
 </div>
 
 - ⚡ **Target:** Deploy next-level web interfaces  
 - 🌌 **Overclock:** Redux system sync  
 - 💻 **Payload:** JavaScript, React, TailwindCSS, Go, PostgreSQL, Firebase, HTML, CSS  
-- 📡 **Shadow Net:** [saidularefin8@gmail.com](mailto:saidularefin8@gmail.com)  
+- 📡 **Comm Link:** [saidularefin8@gmail.com](mailto:saidularefin8@gmail.com)  
 - 🌀 **Trace:** Stealth hiker, light capturer  
 
 <div align="center">
@@ -109,6 +109,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160§ion=footer&text=NINJA%20v404&fontSize=70&fontColor=00FFCC&animation=scaleIn&fontAlignY=60&stroke=00FFCC&strokeWidth=3&borderRadius=12&rotate=-3" width="100%" />
   <p><strong>「 I AM THE CODE THAT CUTS THE FUTURE 」</strong></p>
+  <p>🌐 <em>Shadow Network</em> 🌐</p>
   <img src="https://komarev.com/ghpvc/?username=codeninja-404&style=flat-square&color=0D1117&label=NINJA+PINGS&labelColor=0D1117&borderColor=00FFCC" alt="Profile Views" style="animation: fadeIn 1.5s ease-out;" />
   <br/>
   <img src="https://media.giphy.com/media/xT9IgG50Fb7rxknbji/giphy.gif" alt="Ninja Smoke" width="60" style="opacity: 0.7;"/>
