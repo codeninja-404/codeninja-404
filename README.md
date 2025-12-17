@@ -1,116 +1,185 @@
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🔮 ANIMATED HEADER -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=220§ion=header&text=CodeNinja-404&fontSize=90&fontColor=00FFCC&animation=scaleIn&fontAlignY=50&stroke=00FFCC&strokeWidth=3&borderRadius=12&rotate=3" width="100%" />
+<a href="https://github.com/codeninja-404">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F97316&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62&descAlign=50&stroke=ffffff&strokeWidth=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,50:A855F7,100:EC4899&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=1a1a2e&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F97316&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62" width="100%"/>
+</picture>
+</a>
 </div>
 
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🎯 ANIMATED STATUS -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=26&duration=1800&pause=400&color=00FFCC&background=0D111700¢er=true&vCenter=true&width=650&lines=[SYSTEM+IGNITION]+CodeNinja-404+ONLINE;[GRID+LOCK]+SYSTEM+SECURED;[NINJA+PROTOCOL]+FUTURE+SYSTEMS+UNLEASHED" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26BRBKqUiq586bETS/giphy.gif" alt="Neon Pulse" width="90%" height="8px" style="opacity: 0.9; border-radius: 6px;"/>
-</div>
-
-## <div align="center">🌐 NINJA CORE</div>
-<div align="center" style="background: #0D1117; padding: 25px; border: 3px solid #00FFCC; border-radius: 10px; box-shadow: 0 0 15px #00FFCC; animation: pulse 1.5s infinite;">
-  <p><strong>Saidul Arefin | CodeNinja-404</strong></p>
-  <p>I strike as a front-end assassin and grid enforcer. My arsenal: lethal code precision. My mission: dominate the digital frontier.</p>
-</div>
-
-- ⚡ **Target:** Deploy next-level web interfaces  
-- 🌌 **Overclock:** Redux system sync  
-- 💻 **Payload:** JavaScript, React, TailwindCSS, Go, PostgreSQL, Firebase, HTML, CSS  
-- 📡 **Comm Link:** [saidularefin8@gmail.com](mailto:saidularefin8@gmail.com)  
-- 🌀 **Trace:** Stealth hiker, light capturer  
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26BRBKqUiq586bETS/giphy.gif" alt="Neon Pulse" width="90%" height="8px" style="opacity: 0.9; border-radius: 6px;"/>
-</div>
-
-## <div align="center">💾 NINJA MODULES</div>
-<div align="center" style="background: #0D1117; padding: 20px; border: 3px solid #00FFCC; border-radius: 10px; box-shadow: 0 0 15px #00FFCC;">
   
-  <!-- Expert -->
-  <p><strong>⚡ Expert:</strong></p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next" alt="Expert Skills" />
-  <br/>
-  <img src="https://img.shields.io/badge/DaisyUI-00FFCC?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117" />
-  
-  <!-- Comfortable -->
-  <p><strong>🌌 Comfortable:</strong></p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,redux" alt="Comfortable Skills" />
-  
-  <!-- Familiar -->
-  <p><strong>💻 Familiar:</strong></p>
-  <img src="https://img.shields.io/badge/Material--Tailwind-00FFCC?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Flowbite-00FFCC?style=flat-square&logo=tailwindcss&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/AntDesign-00FFCC?style=flat-square&logo=antdesign&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Shadcn--ui-00FFCC?style=flat-square&logo=react&logoColor=white&labelColor=0D1117" />
-  
-  <!-- Tools -->
-  <p><strong>🌀 Tools:</strong></p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,vercel" alt="Tools" />
-  <br/>
-  <img src="https://img.shields.io/badge/Netlify-00FFCC?style=flat-square&logo=netlify&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Surge-00FFCC?style=flat-square&logo=surge&logoColor=white&labelColor=0D1117" />
-  <img src="https://img.shields.io/badge/Render-00FFCC?style=flat-square&logo=render&logoColor=white&labelColor=0D1117" />
+<br/>
 
-  <p><em>Systems primed for terminal velocity</em></p>
+<a href="https://solana.com">
+  <img src="https://raw.githubusercontent.com/solana-labs/token-list/main/assets/mainnet/So11111111111111111111111111111111111111112/logo.png" width="60" alt="Solana"/>
+</a>
+
+<br/><br/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=500&height=35&lines=🦀+Currently+Mastering+Rust;◎+Building+on+Solana+Next;⛓️+Decentralizing+the+Future)](https://git.io/typing-svg)
+
 </div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🏷️ STATUS BADGES -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<div align="center">
+
+<img src="https://img.shields.io/badge/⛓️_FOCUS-BLOCKCHAIN-8B5CF6?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/🦀_LEARNING-RUST-F97316?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/◎_NEXT-SOLANA-14F195?style=for-the-badge&labelColor=0d1117"/>
+
+</div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- ⚡ TECH STACK -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"/>
+  <b> TECH ARSENAL </b>
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"/>
+</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRBKqUiq586bETS/giphy.gif" alt="Neon Pulse" width="90%" height="8px" style="opacity: 0.9; border-radius: 6px;"/>
+<table>
+<tr>
+<td align="center" width="50%">
+
+<h3>🎯 CORE STACK</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,solana&theme=dark&perline=2"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,solana&theme=light&perline=2"/>
+  <img src="https://skillicons.dev/icons?i=rust,solana&theme=dark&perline=2" alt="Core"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=dark" alt="Frontend"/>
+</picture>
+
+</td>
+<td align="center" width="50%">
+
+<h3>🛠️ DEV TOOLS</h3>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
+</picture>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,postgres&theme=dark"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,postgres&theme=light"/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,postgres&theme=dark" alt="Infra"/>
+</picture>
+
+</td>
+</tr>
+</table>
 </div>
 
-## <div align="center">📈 SYSTEM OVERLOAD</div>
-<div align="center" style="background: #0D1117; padding: 25px; border: 3px solid #00FFCC; border-radius: 10px; box-shadow: 0 0 15px #00FFCC;">
-  <table align="center" border="0">
-    <tr border="0">
-      <td width="50%" align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&theme=transparent&bg_color=0D111700&text_color=00FFCC&title_color=00FFCC&icon_color=FF007A&border_color=00FFCC&hide_border=false&border_radius=12&count_private=true&show=prs_merged,reviews" alt="Stats" style="animation: slideInLeft 1s ease-out;" />
-      </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=codeninja-404&theme=transparent&background=0D111700&border=00FFCC&stroke=00FFCC&ring=FF007A&fire=FF007A&currStreakNum=00FFCC&currStreakLabel=00FFCC&sideNums=00FFCC&sideLabels=00FFCC&hide_border=false&border_radius=12" alt="Streak" style="animation: slideInRight 1s ease-out;" />
-      </td>
-    </tr>
-  </table>
-</div>
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 📊 GITHUB STATS -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
+  <b> GITHUB ANALYTICS </b>
+  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"/>
+</h2>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRBKqUiq586bETS/giphy.gif" alt="Neon Pulse" width="90%" height="8px" style="opacity: 0.9; border-radius: 6px;"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&border_radius=15&bg_color=0d1117&title_color=8B5CF6&icon_color=F97316&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&border_radius=15&bg_color=ffffff&title_color=8B5CF6&icon_color=F97316&text_color=1a1a2e&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&border_radius=15&bg_color=0d1117&title_color=8B5CF6&icon_color=F97316&text_color=c9d1d9" height="180"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=codeninja-404&hide_border=true&border_radius=15&background=0D1117&ring=8B5CF6&fire=F97316&currStreakNum=FFFFFF&sideNums=8B5CF6&currStreakLabel=EC4899&sideLabels=F97316&dates=888888"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=codeninja-404&hide_border=true&border_radius=15&background=FFFFFF&ring=8B5CF6&fire=F97316&currStreakNum=1a1a2e&sideNums=8B5CF6&currStreakLabel=EC4899&sideLabels=F97316"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codeninja-404&hide_border=true&border_radius=15&background=0D1117&ring=8B5CF6&fire=F97316" height="180"/>
+</picture>
 </div>
 
-## <div align="center">🏆 NINJA CACHE</div>
-<div align="center" style="background: #0D1117; padding: 20px; border: 3px solid #00FFCC; border-radius: 10px; box-shadow: 0 0 15px #00FFCC;">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=codeninja-404&theme=cyberpunk&no-bg=true&no-frame=false&column=7&margin-w=12&margin-h=12" alt="Trophies" style="animation: zoomIn 1.2s ease-out;" />
-  </a>
-</div>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/26BRBKqUiq586bETS/giphy.gif" alt="Neon Pulse" width="90%" height="8px" style="opacity: 0.9; border-radius: 6px;"/>
-</div>
-
-## <div align="center">🔗 SHADOW GRID</div>
-<div align="center" style="background: #0D1117; padding: 20px; border: 3px solid #00FFCC; border-radius: 10px; box-shadow: 0 0 15px #00FFCC;">
-  <a href="https://www.linkedin.com/in/saidul-arefin-codeninja404">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=ffffff&labelColor=0D1117&borderColor=00FFCC" alt="LinkedIn" style="animation: fadeIn 1s ease-out;" />
-  </a>  
-  <a href="mailto:saidularefin8@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=ffffff&labelColor=0D1117&borderColor=00FFCC" alt="Email" style="animation: fadeIn 1s ease-out;" />
-  </a>
-  <br/>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=800&size=18&duration=1500&pause=400&color=00FFCC&background=0D111700¢er=true&vCenter=true&width=350&height=30&lines=[GRID+STATUS]+LOCKED+AND+LOADED;[NINJA+SYNC]+FULL+POWER" alt="Status" />
-</div>
+<br/>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/26BRBKqUiq586bETS/giphy.gif" alt="Neon Pulse" width="90%" height="8px" style="opacity: 0.9; border-radius: 6px;"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=codeninja-404&bg_color=0d1117&color=8B5CF6&line=F97316&point=EC4899&area=true&area_color=8B5CF650&hide_border=true&radius=16"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=codeninja-404&bg_color=ffffff&color=8B5CF6&line=F97316&point=EC4899&area=true&area_color=8B5CF630&hide_border=true&radius=16"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeninja-404&bg_color=0d1117&color=8B5CF6&line=F97316&point=EC4899&area=true&area_color=8B5CF650&hide_border=true&radius=16" width="98%"/>
+</picture>
 </div>
 
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 🌐 CONNECT -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<h2 align="center">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/>
+  <b> LET'S CONNECT </b>
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="28"/>
+</h2>
+
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=160§ion=footer&text=NINJA%20v404&fontSize=70&fontColor=00FFCC&animation=scaleIn&fontAlignY=60&stroke=00FFCC&strokeWidth=3&borderRadius=12&rotate=-3" width="100%" />
-  <p><strong>「 I AM THE CODE THAT CUTS THE FUTURE 」</strong></p>
-  <p>🌐 <em>Shadow Network</em> 🌐</p>
-  <img src="https://komarev.com/ghpvc/?username=codeninja-404&style=flat-square&color=0D1117&label=NINJA+PINGS&labelColor=0D1117&borderColor=00FFCC" alt="Profile Views" style="animation: fadeIn 1.5s ease-out;" />
-  <br/>
-  <img src="https://media.giphy.com/media/xT9IgG50Fb7rxknbji/giphy.gif" alt="Ninja Smoke" width="60" style="opacity: 0.7;"/>
+
+<a href="https://twitter.com/saidularefin6">
+  <img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/saidul-arefin-codeninja404">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;&nbsp;
+<a href="mailto:saidularefin8@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
 </div>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!-- 👁️ FOOTER -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=codeninja-404&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:EC4899&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" width="100%"/>
+</picture>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
+<!--                        🦀 BUILT WITH RUST MINDSET                               -->
+<!--                    ⛓️ DECENTRALIZING THE FUTURE                                  -->
+<!-- ═══════════════════════════════════════════════════════════════════════════════ -->
