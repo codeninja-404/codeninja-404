@@ -3,11 +3,7 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 <a href="https://github.com/codeninja-404">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F97316&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62&descAlign=50&stroke=ffffff&strokeWidth=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,50:A855F7,100:EC4899&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=1a1a2e&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62&descAlign=50"/>
-  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F97316&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62" width="100%"/>
-</picture>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F97316&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62&descAlign=50&stroke=ffffff&strokeWidth=2" width="100%"/>
 </a>
 </div>
 
@@ -33,9 +29,9 @@
 <!-- ═══════════════════════════════════════════════════════════════════════════════ -->
 <div align="center">
 
-<img src="https://img.shields.io/badge/⛓️_FOCUS-BLOCKCHAIN-8B5CF6?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🦀_LEARNING-RUST-F97316?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/◎_NEXT-SOLANA-14F195?style=for-the-badge&labelColor=0d1117"/>
+![Blockchain](https://img.shields.io/badge/⛓️_FOCUS-BLOCKCHAIN-8B5CF6?style=for-the-badge&labelColor=1a1a2e)
+![Rust](https://img.shields.io/badge/🦀_LEARNING-RUST-F97316?style=for-the-badge&labelColor=1a1a2e)
+![Solana](https://img.shields.io/badge/◎_NEXT-SOLANA-14F195?style=for-the-badge&labelColor=1a1a2e)
 
 </div>
 
@@ -58,38 +54,22 @@
 
 <h3>🎯 CORE STACK</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,solana&theme=dark&perline=2"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,solana&theme=light&perline=2"/>
-  <img src="https://skillicons.dev/icons?i=rust,solana&theme=dark&perline=2" alt="Core"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=rust,solana&theme=dark&perline=2" alt="Core"/>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=dark" alt="Frontend"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=dark" alt="Frontend"/>
 
 </td>
 <td align="center" width="50%">
 
 <h3>🛠️ DEV TOOLS</h3>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" alt="Tools"/>
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,postgres&theme=dark"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,postgres&theme=light"/>
-  <img src="https://skillicons.dev/icons?i=linux,docker,postgres&theme=dark" alt="Infra"/>
-</picture>
+<img src="https://skillicons.dev/icons?i=linux,docker,postgres&theme=dark" alt="Infra"/>
 
 </td>
 </tr>
@@ -109,26 +89,14 @@
 </h2>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&border_radius=15&bg_color=0d1117&title_color=8B5CF6&icon_color=F97316&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&border_radius=15&bg_color=ffffff&title_color=8B5CF6&icon_color=F97316&text_color=1a1a2e&include_all_commits=true&count_private=true"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&border_radius=15&bg_color=0d1117&title_color=8B5CF6&icon_color=F97316&text_color=c9d1d9" height="180"/>
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com?user=codeninja-404&hide_border=true&border_radius=15&background=0D1117&ring=8B5CF6&fire=F97316&currStreakNum=FFFFFF&sideNums=8B5CF6&currStreakLabel=EC4899&sideLabels=F97316&dates=888888"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.herokuapp.com?user=codeninja-404&hide_border=true&border_radius=15&background=FFFFFF&ring=8B5CF6&fire=F97316&currStreakNum=1a1a2e&sideNums=8B5CF6&currStreakLabel=EC4899&sideLabels=F97316"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=codeninja-404&hide_border=true&border_radius=15&background=0D1117&ring=8B5CF6&fire=F97316" height="180"/>
-</picture>
+  <img src="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&border_radius=15&bg_color=0d1117&title_color=8B5CF6&icon_color=F97316&text_color=c9d1d9&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=codeninja-404&hide_border=true&border_radius=15&background=0D1117&ring=8B5CF6&fire=F97316&currStreakNum=FFFFFF&sideNums=8B5CF6&currStreakLabel=EC4899&sideLabels=F97316&dates=888888" height="180"/>
 </div>
 
 <br/>
 
 <div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=codeninja-404&bg_color=0d1117&color=8B5CF6&line=F97316&point=EC4899&area=true&area_color=8B5CF650&hide_border=true&radius=16"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=codeninja-404&bg_color=ffffff&color=8B5CF6&line=F97316&point=EC4899&area=true&area_color=8B5CF630&hide_border=true&radius=16"/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeninja-404&bg_color=0d1117&color=8B5CF6&line=F97316&point=EC4899&area=true&area_color=8B5CF650&hide_border=true&radius=16" width="98%"/>
-</picture>
 </div>
 
 <br/>
@@ -146,7 +114,7 @@
 <div align="center">
 
 <a href="https://twitter.com/saidularefin6">
-  <img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000"/>
+  <img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/saidul-arefin-codeninja404">
@@ -167,15 +135,11 @@
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=codeninja-404&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
+![Profile Views](https://komarev.com/ghpvc/?username=codeninja-404&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS)
 
 <br/><br/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:EC4899&height=120&section=footer"/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" width="100%"/>
-</picture>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" width="100%"/>
 
 </div>
 
