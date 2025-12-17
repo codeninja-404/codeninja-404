@@ -1,10 +1,11 @@
 <div align="center">
 
-<!-- DARK BACKGROUND HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
-
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F97316&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62&descAlign=50" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F97316&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62&descAlign=50"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&color=0:6366F1,50:A855F7,100:EC4899&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=1f2937&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62&descAlign=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F97316&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62&descAlign=50" width="100%"/>
+</picture>
 
 <br/>
 
@@ -21,17 +22,15 @@
 <br/><br/>
 
 <!-- BADGES -->
-<img src="https://img.shields.io/badge/⛓️_FOCUS-BLOCKCHAIN-8B5CF6?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/🦀_LEARNING-RUST-F97316?style=for-the-badge&labelColor=0d1117"/>
-<img src="https://img.shields.io/badge/◎_NEXT-SOLANA-14F195?style=for-the-badge&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/⛓️_FOCUS-BLOCKCHAIN-8B5CF6?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🦀_LEARNING-RUST-F97316?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/◎_NEXT-SOLANA-14F195?style=for-the-badge"/>
 
-<!-- DARK SECTION DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header" width="100%"/>
+<br/><br/>
+
+---
 
 <h2>⚡ TECH ARSENAL ⚡</h2>
-
-<!-- DARK BACKGROUND TABLE -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=&descAlignY=50" width="100%"/>
 
 <table>
   <tr>
@@ -40,29 +39,57 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=rust,solana&theme=dark"/><br/><br/>
-      <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=dark"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=rust,solana&theme=dark"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=rust,solana&theme=light"/>
+        <img src="https://skillicons.dev/icons?i=rust,solana"/>
+      </picture>
+      <br/><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=dark"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=light"/>
+        <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs"/>
+      </picture>
     </td>
     <td align="center">
-      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/><br/><br/>
-      <img src="https://skillicons.dev/icons?i=linux,docker,postgres&theme=dark"/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=git,github,vscode&theme=light"/>
+        <img src="https://skillicons.dev/icons?i=git,github,vscode"/>
+      </picture>
+      <br/><br/>
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=linux,docker,postgres&theme=dark"/>
+        <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=linux,docker,postgres&theme=light"/>
+        <img src="https://skillicons.dev/icons?i=linux,docker,postgres"/>
+      </picture>
     </td>
   </tr>
 </table>
 
-<!-- DARK SECTION DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header" width="100%"/>
+<br/>
+
+---
 
 <h2>📊 GITHUB ANALYTICS</h2>
 
-<img src="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=F97316&text_color=ffffff&count_private=true" height="180"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=F97316&text_color=ffffff&count_private=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&bg_color=00000000&title_color=8B5CF6&icon_color=F97316&text_color=1f2937&count_private=true"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&count_private=true" height="180"/>
+</picture>
 
 <br/><br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=codeninja-404&bg_color=0d1117&color=8B5CF6&line=F97316&point=EC4899&area=true&area_color=8B5CF650&hide_border=true" width="98%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=codeninja-404&bg_color=00000000&color=8B5CF6&line=F97316&point=EC4899&area=true&area_color=8B5CF650&hide_border=true"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=codeninja-404&bg_color=00000000&color=8B5CF6&line=F97316&point=EC4899&area=true&area_color=8B5CF630&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeninja-404&bg_color=00000000&color=8B5CF6&line=F97316&point=EC4899&area=true&hide_border=true" width="98%"/>
+</picture>
 
-<!-- DARK SECTION DIVIDER -->
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header" width="100%"/>
+<br/>
+
+---
 
 <h2>🤝 LET'S CONNECT</h2>
 
@@ -78,11 +105,17 @@
 
 <br/><br/>
 
+---
+
 <img src="https://komarev.com/ghpvc/?username=codeninja-404&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" width="100%"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:6366F1,50:A855F7,100:EC4899&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" width="100%"/>
+</picture>
 
 </div>
