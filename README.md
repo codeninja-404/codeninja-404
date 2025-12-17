@@ -26,12 +26,24 @@
 
 ---
 
-## ⚡ TECH ARSENAL
+## ⚡ TECH ARSENAL ⚡
 
-| 🎯 CORE STACK | 🛠️ DEV TOOLS |
-|:-------------:|:------------:|
-| <img src="https://skillicons.dev/icons?i=rust,solana&theme=dark&perline=2"/> | <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/> |
-| <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=dark"/> | <img src="https://skillicons.dev/icons?i=linux,docker,postgres&theme=dark"/> |
+<table>
+  <tr>
+    <th>🎯 CORE STACK</th>
+    <th>🛠️ DEV TOOLS</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=rust,solana&theme=dark"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=ts,react,nextjs,nodejs&theme=dark"/>
+    </td>
+    <td align="center">
+      <img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/><br/><br/>
+      <img src="https://skillicons.dev/icons?i=linux,docker,postgres&theme=dark"/>
+    </td>
+  </tr>
+</table>
 
 <br/>
 
