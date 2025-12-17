@@ -1,6 +1,7 @@
-<table bgcolor="#0d1117" width="100%" cellpadding="20">
-<tr>
-<td align="center">
+<div align="center">
+
+<!-- DARK BACKGROUND HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1&section=header" width="100%"/>
 
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F97316&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62&descAlign=50" width="100%"/>
@@ -24,11 +25,13 @@
 <img src="https://img.shields.io/badge/🦀_LEARNING-RUST-F97316?style=for-the-badge&labelColor=0d1117"/>
 <img src="https://img.shields.io/badge/◎_NEXT-SOLANA-14F195?style=for-the-badge&labelColor=0d1117"/>
 
-<br/><br/>
-
----
+<!-- DARK SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header" width="100%"/>
 
 <h2>⚡ TECH ARSENAL ⚡</h2>
+
+<!-- DARK BACKGROUND TABLE -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=200&section=header&text=&descAlignY=50" width="100%"/>
 
 <table>
   <tr>
@@ -47,22 +50,19 @@
   </tr>
 </table>
 
-<br/>
-
----
+<!-- DARK SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header" width="100%"/>
 
 <h2>📊 GITHUB ANALYTICS</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=F97316&text_color=ffffff&count_private=true" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=codeninja-404&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakNum=FFFFFF&sideNums=8B5CF6&currStreakLabel=EC4899&sideLabels=F97316&dates=888888" height="180"/>
 
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeninja-404&bg_color=0d1117&color=8B5CF6&line=F97316&point=EC4899&area=true&area_color=8B5CF650&hide_border=true" width="98%"/>
 
-<br/>
-
----
+<!-- DARK SECTION DIVIDER -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=40&section=header" width="100%"/>
 
 <h2>🤝 LET'S CONNECT</h2>
 
@@ -78,14 +78,11 @@
 
 <br/><br/>
 
----
-
 <img src="https://komarev.com/ghpvc/?username=codeninja-404&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS"/>
 
 <br/><br/>
 
+<!-- FOOTER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" width="100%"/>
 
-</td>
-</tr>
-</table>
+</div>
