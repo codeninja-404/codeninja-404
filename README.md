@@ -1,4 +1,6 @@
-<div align="center">
+<table bgcolor="#0d1117" width="100%" cellpadding="20">
+<tr>
+<td align="center">
 
 <!-- HEADER -->
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:8B5CF6,50:EC4899,100:F97316&height=280&section=header&text=SAIDUL%20AREFIN&fontSize=70&fontColor=fff&animation=fadeIn&fontAlignY=40&desc=⛓️%20BLOCKCHAIN%20DEV%20%20•%20%20🦀%20RUST%20%20•%20%20◎%20SOLANA&descSize=20&descAlignY=62&descAlign=50" width="100%"/>
@@ -26,7 +28,7 @@
 
 ---
 
-## ⚡ TECH ARSENAL ⚡
+<h2>⚡ TECH ARSENAL ⚡</h2>
 
 <table>
   <tr>
@@ -49,7 +51,7 @@
 
 ---
 
-## 📊 GITHUB ANALYTICS
+<h2>📊 GITHUB ANALYTICS</h2>
 
 <img src="https://github-readme-stats.vercel.app/api?username=codeninja-404&show_icons=true&hide_border=true&bg_color=0d1117&title_color=8B5CF6&icon_color=F97316&text_color=ffffff&count_private=true" height="180"/>
 <img src="https://github-readme-streak-stats.herokuapp.com?user=codeninja-404&hide_border=true&background=0D1117&ring=8B5CF6&fire=F97316&currStreakNum=FFFFFF&sideNums=8B5CF6&currStreakLabel=EC4899&sideLabels=F97316&dates=888888" height="180"/>
@@ -62,7 +64,7 @@
 
 ---
 
-## 🤝 LET'S CONNECT
+<h2>🤝 LET'S CONNECT</h2>
 
 <a href="https://twitter.com/saidularefin6">
   <img src="https://img.shields.io/badge/𝕏-000000?style=for-the-badge&logo=x&logoColor=white"/>
@@ -84,4 +86,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,50:EC4899,100:F97316&height=120&section=footer" width="100%"/>
 
-</div>
+</td>
+</tr>
+</table>
