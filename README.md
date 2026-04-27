@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.png" width="100%" alt="Saidul Arefin Banner" />
+  <img src="./assets/banner1.png" width="100%" alt="Saidul Arefin Banner" />
 </div>
 
 <br />
@@ -19,7 +19,7 @@
 
 ---
 
-### 🖥️ [ SYSTEM_BIO ]
+### 🖥️ SYSTEM_BIO
 
 <table align="center">
   <tr>
@@ -39,7 +39,7 @@
 
 ---
 
-### ⌨️ [ TECH_STACK ]
+### ⌨️ TECH_STACK
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=rust,laravel,react,nextjs,nodejs,mongodb,postgres,ts,tailwind,redux,prisma,git,github,vscode,figma&theme=dark" alt="Tech Stack" />
@@ -47,7 +47,7 @@
 
 ---
 
-### 📊 [ METRICS_DASHBOARD ]
+### 📊 METRICS_DASHBOARD
 
 <div align="center">
   <table align="center">
@@ -64,7 +64,7 @@
 
 ---
 
-### 📈 [ ACTIVITY_LOG ]
+### 📈 ACTIVITY_LOG
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=codeninja-404&bg_color=000000&color=008000&line=008000&point=008000&hide_border=true&area=true" width="100%" alt="Activity Graph" />
@@ -72,6 +72,4 @@
 
 <br />
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=000000&height=30&section=footer&text=END_OF_SESSION&fontSize=15&fontColor=008000" width="100%" />
-</div>
+
